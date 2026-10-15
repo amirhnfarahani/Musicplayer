@@ -9,7 +9,6 @@ on:
       - '*.gradle.kts'
       - 'gradle/**'
       - 'gradlew'
-      - '.github/workflows/android.yml'
 
 permissions:
   contents: read
